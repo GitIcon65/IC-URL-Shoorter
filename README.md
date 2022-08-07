@@ -1,2 +1,2 @@
-# IC-URL-Shoorter
+# IC URL Shoorter
 Simple link shortener
